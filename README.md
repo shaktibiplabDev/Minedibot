@@ -31,6 +31,11 @@ The Discord bot can respond to user messages, while the Minecraft bot can intera
 - **Node.js**: Ensure Node.js is installed. Download it from [nodejs.org](https://nodejs.org/).
 - **pip**: Python package installer, usually included with Python installations.
 
+### Setup Credentials
+   ```bash
+   Edit .env.example with your credentials and save it. rename it to .env
+  
+   ```
 ### Setup Instructions
 
 1. **Clone the Repository**:
