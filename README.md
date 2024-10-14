@@ -35,8 +35,8 @@ The Discord bot can respond to user messages, while the Minecraft bot can intera
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your_username/your_repository.git
-   cd your_repository
+   git clone https://github.com/shaktibiplabDev/Minedibot.git
+   cd Minedibot
    ```
 
 2. **Install Python Dependencies**:
@@ -98,4 +98,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Special thanks to the maintainers of the libraries used in this project, including Discord.py, Mineflayer, and PyTorch.
 
 ## Contact
-For questions or suggestions, feel free to reach out to me through [GitHub](https://github.com/your_username).
+For questions or suggestions, feel free to reach out to me through [GitHub](https://github.com/shaktibiplabDev).
