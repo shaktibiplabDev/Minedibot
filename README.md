@@ -58,7 +58,7 @@ The Discord bot can respond to user messages, while the Minecraft bot can intera
    ```
 
 4. **Configure Your Tokens**:
-   - Open `discord_bot/main.py` and replace `YOUR_DISCORD_TOKEN` with your actual Discord bot token. You can create a bot and get a token from the [Discord Developer Portal](https://discord.com/developers/applications).
+   - Open `.env.example` and replace `DISCORD_TOKEN` with your actual Discord bot token. You can create a bot and get a token from the [Discord Developer Portal](https://discord.com/developers/applications).
 
 5. **Initialize Shared Memory**:
    The `shared_memory.json` file will be automatically created when you run the bot for the first time.
