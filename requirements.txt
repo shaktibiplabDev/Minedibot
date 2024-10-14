@@ -1,0 +1,5 @@
+discord.py
+torch
+transformers
+mineflayer
+python-dotenv
