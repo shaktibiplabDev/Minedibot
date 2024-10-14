@@ -54,6 +54,7 @@ The Discord bot can respond to user messages, while the Minecraft bot can intera
    Navigate to the Minecraft bot directory and install Mineflayer:
    ```bash
    npm install mineflayer
+   npm install mineflayer-pathfinder
    ```
 
 4. **Configure Your Tokens**:
