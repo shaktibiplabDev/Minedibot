@@ -5,6 +5,9 @@ This project combines a **Discord bot** and a **Minecraft bot**, both enhanced w
 
 The Discord bot can respond to user messages, while the Minecraft bot can interact with the Minecraft world and learn from gameplay experiences. This dual functionality creates an innovative system where the bots can improve their interactions over time.
 
+this project is just a initial attempt from scratch
+
+
 ## Features
 - **Discord Bot**:
   - Responds to user messages with contextually appropriate replies.
